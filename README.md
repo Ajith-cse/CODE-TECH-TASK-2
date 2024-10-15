@@ -9,6 +9,7 @@ Mentor : Muzammil
 **Overview of the Simple Vulnerability Scanning Tool**
 Purpose:
 The tool is designed to perform basic vulnerability assessments on a specified network or website by checking for common security vulnerabilities. It helps identify open ports, outdated software versions, and basic misconfigurations.
+**OUTPUT**
 ![Screenshot (5)](https://github.com/user-attachments/assets/9cc4bc51-6b65-4406-8c76-242b21d08f5b)
 
 
