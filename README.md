@@ -1,3 +1,10 @@
+**Name : AJITH.M
+Company : CODTECH IT SOLUTIONS
+ID : CT08DS8221 
+Domain : CYBERSECURITY AND ETHICAL HACKING 
+Duration: September to October 2024 
+Mentor : Muzammil
+**
 # CODE-TECH-TASK-2
 **Overview of the Simple Vulnerability Scanning Tool**
 Purpose:
